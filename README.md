@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MotooriKashin/MotooriKashin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![MotooriKashin's github stats](https://github-readme-stats.vercel.app/api?username=MotooriKashin&bg_color=0000&text_color=f25d8e&title_color=ffafc9&hide_border=true&show_icons=true)  
+![MotooriKashin's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotooriKashin&bg_color=0000&text_color=f25d8e&title_color=ffafc9&hide_border=true&layout=compact)  
